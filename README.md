@@ -1,6 +1,6 @@
 ### Hi, I'm Rooben 👋
 
-- 🔭 I’m currently working on front end developement
+- 🔭 I’m currently working on front end web development
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web Design
 - 🤔 I’m looking for help with JS documentation
