@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web Design
 - 🤔 I’m looking for help with JS documentation
-- 💬 Ask me about Web Design/Development
+- 💬 Ask me about Web Design/Development/3D Modelling
 - 📫 How to reach me: djrooben@gmail.com
 - 😄 Hobby: 3D Modelling/Nurbs Surfacing
 - ⚡ Education Background: I'm have a Bachelor of Engineering(Product Design)(Honours) & currently learning Web Development/Javascript techdegree from Treehouse
