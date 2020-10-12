@@ -1,6 +1,4 @@
 ### Hi, I'm Rooben 👋
-
-- 🔭 I’m currently working on front end web design/development
 - 🌱 I’m currently learning Full Stack JavaScript Techdegree at Treehouse
 - 📫 How to reach me: djrooben@gmail.com
 - 😄 Hobby: 3D Modelling/Nurbs Surfacing
