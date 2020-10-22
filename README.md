@@ -8,7 +8,9 @@
 - I like experimenting with new technologies, building small projects..
 <br>
 <hr>
-<align="center" img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
+<p align="center">
+<img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
+</p>
 <hr>
 <strong>Here's a list of my coding projects:</strong>
 <br>
