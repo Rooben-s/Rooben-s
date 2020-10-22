@@ -7,7 +7,7 @@
 <br>
 ⚡ I like experimenting with new technologies, building small projects..
 <br>
-🤔 I’m looking for an entry level developer position 🛤
+🤔 I’m looking for an entry level web developer position 🛤
 <hr>
 📫 How to reach me: [djrooben@gmail.com)
 <p align="center">
