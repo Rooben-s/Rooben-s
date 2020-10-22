@@ -18,11 +18,9 @@
 <hr>
 <strong>My Tech Skills</strong>
 <br>
-<br>
  # Web Design(Illustrator,Figma)
 <br>
  # Web Developemnt(Html5, CSS3, Saas & Javascript)
-<br>
 <br>
 <strong>Here's a list of my coding projects:</strong>
 <br>
