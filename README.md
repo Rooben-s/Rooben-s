@@ -33,9 +33,7 @@
 <strong>3.</strong> A simple web developer website
 <br>
 <strong>4.</strong> Arch Studio website 
-<br>
-<strong>5.</strong>
-<br>
+
 <br>
 <br>
 <br>
