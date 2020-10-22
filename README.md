@@ -12,13 +12,13 @@
 <hr>
 <strong>Here's a list of my coding projects:</strong>
 <br>
-<strong>1.</strong>
+<strong>1.Responsive Mobile First Website</strong>
 <br>
-<strong>2.</strong>
+<strong>2.A simple travel website</strong>
 <br>
-<strong>3.</strong>
+<strong>3.A simple web developer website</strong>
 <br>
-<strong>4.</strong>
+<strong>4.Arch Studio website </strong>
 <br>
 <strong>5.</strong>
 <br>
