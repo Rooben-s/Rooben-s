@@ -11,4 +11,6 @@
 
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
 
+< a href = "[![HitCount](http://hits.dwyl.com/rooben-s/{project}.svg)](http://hits.dwyl.com/rooben-s/{project})">
+
 
