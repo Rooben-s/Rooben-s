@@ -1,6 +1,4 @@
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg">
-
-
 - 🌱 I’m currently learning Web design/development.
 - Located in Melbourne Australia
 - 😄 Hobby: 3D Modelling/Nurbs Surfacing.
@@ -22,9 +20,12 @@
 
 <hr>
 <br>
+<br>
+<br>
 <p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
 </p>
-
-
+<br>
+<br>
+<br>
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/bottom.svg">
