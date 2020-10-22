@@ -8,7 +8,7 @@
 - I like experimenting with new technologies, building small projects..
 <br>
 <hr>
-<img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
+<align="center" img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
 <hr>
 <strong>Here's a list of my coding projects:</strong>
 <br>
@@ -22,11 +22,7 @@
 <br>
 <strong>5.</strong>
 <br>
-<a[![HitCount](http://hits.dwyl.com/rooben-s/{project}.svg)](http://hits.dwyl.com/rooben-s/{project})>
 
-    <a href="http://hits.dwyl.com/rooben-s/rooben-s">
-      <img align="center" src="http://hits.dwyl.com/rooben-s/rooben-s.svg">
-    </a>
 
 
 
