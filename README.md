@@ -11,3 +11,6 @@
 <br>
 
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
+
+
+< img src = "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg" >
