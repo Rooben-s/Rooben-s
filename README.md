@@ -9,8 +9,8 @@
 <br>
 <hr>
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
-
-<strong>Here's a list of my projects:</strong>
+<hr>
+<strong>Here's a list of my coding projects:</strong>
 <br>
 <strong>1.</strong>
 <br>
