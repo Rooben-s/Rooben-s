@@ -7,6 +7,7 @@
 <br>
 - I like experimenting with new technologies, building small projects..
 <br>
+🤔 I’m looking for an entry level developer position 🛤
 <hr>
 <p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
