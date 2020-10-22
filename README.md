@@ -22,4 +22,12 @@
 <br>
 <strong>5.</strong>
 <br>
+<a[![HitCount](http://hits.dwyl.com/rooben-s/{project}.svg)](http://hits.dwyl.com/rooben-s/{project})>
+
+    <a href="http://hits.dwyl.com/rooben-s/rooben-s">
+      <img align="center" src="http://hits.dwyl.com/rooben-s/rooben-s.svg">
+    </a>
+
+
+
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/bottom.svg">
