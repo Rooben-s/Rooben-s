@@ -18,20 +18,20 @@
 <hr>
 <strong>My Tech Skills</strong>
 <br>
-    # Web Design(Illustrator,Figma)
+    • Web Design
 <br>
-    # Web Developemnt(Html5, CSS3, Saas & Javascript)
+    • Web Development
 <br>
 <br>
 <strong>Here's a list of my coding projects:</strong>
 <br>
-    <strong>1.</strong> Responsive Mobile First Website
+    <strong>1.</strong> - Responsive Mobile First Website
 <br>
-    <strong>2.</strong> A simple travel website
+    <strong>2.</strong> - A simple travel website
 <br>
-    <strong>3.</strong> A simple web developer website
+    <strong>3.</strong> - A simple web developer website
 <br>
-    <strong>4.</strong> Arch Studio website 
+    <strong>4.</strong> - Arch Studio website 
 
 <br>
 <br>
