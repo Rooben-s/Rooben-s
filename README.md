@@ -1,4 +1,4 @@
-<img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg">
+<img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.css">
 - 🌱 I’m currently learning Web design/development.
 <br>
 - Located in Melbourne Australia.
