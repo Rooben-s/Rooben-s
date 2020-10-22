@@ -24,8 +24,11 @@
 <br>
 <strong>5.</strong>
 <br>
-<hr>
-#### Technologies I use
+<br>
+<br>
+<br>
+
+
 
 
 
