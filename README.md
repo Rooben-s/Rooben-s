@@ -8,8 +8,10 @@
 ⚡ I like experimenting with new technologies, building small projects..
 <br>
 🤔 I’m looking for a web developer position 🛤
-<hr>
+<br>
 📫 How to reach me: [djrooben@gmail.com)
+<hr>
+
 <p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
 </p>
