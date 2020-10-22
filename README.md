@@ -5,6 +5,7 @@
 - I like experimenting with new technologies, building small projects..
 <hr>
 <strong>Here's a list of my projects:</strong>
+<br>
 <strong>1.</strong>
 <br>
 <strong>2.</strong>
@@ -22,10 +23,8 @@
 <br>
 <br>
 <br>
-<p align="center">
 <img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
-</p>
-<br>
-<br>
-<br>
+
+
+
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/bottom.svg">
