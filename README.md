@@ -1,5 +1,5 @@
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg">
-Currently learning web design/development. | Located in Melbourne, Australia.
+Currently learning web design/development. | :globe_with_meridians: Located in Melbourne, Australia.
 <br>
 <br>
 2018 Product design engineer graduate. | ⚡ I like experimenting with new technologies.
