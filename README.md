@@ -27,7 +27,7 @@
 <br>
     <strong>1.</strong> - Mobile First Website. [ (<a href="https://rooben-s.github.io/techdegree-project-2-mobile-first" target="_blank">Live</a>) | (<a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first" target="_blank">Repository</a>) ]
 <br>
-    <strong>2.</strong> - A Responsive developer website. [ (<a href="https://rooben-s.github.io/dev-website/" target="_blank">Live</a>) | (<a href="https://rooben-s.github.io/dev-website" target="_blank">Repository</a>) ]
+    <strong>2.</strong> - A Responsive developer website. [ (<a href="https://rooben-s.github.io/dev-website/" target="_blank">Live</a>) | (<a href="https://github.com/Rooben-s/dev-website" target="_blank">Repository</a>) ]
 <br>
     <strong>3.</strong> - A simple web developer website
 <br>
