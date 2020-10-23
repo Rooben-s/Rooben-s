@@ -7,8 +7,6 @@
 <br>
 ⚡ I like experimenting with new technologies, building small projects..
 <br>
-🤔 I’m looking for a web developer position 🛤
-<br>
 📫 How to reach me: [djrooben@gmail.com)
 <hr>
 
