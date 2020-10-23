@@ -25,7 +25,7 @@
 <br>                                                                      
 <strong>Here's a list of my coding projects:</strong>
 <br>
-    <strong>1.</strong> - <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first">Responsive Mobile First Website</a>[<a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first">Code</a>]
+    <strong>1.</strong> - Live: <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first">Responsive Mobile First Website</a>  [<a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first">Repository</a>]
 <br>
     <strong>2.</strong> - A simple travel website
 <br>
