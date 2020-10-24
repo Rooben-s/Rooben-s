@@ -1,14 +1,14 @@
 <h4>Hi, Welcome to my profile!<h4>
 
-	:seedling: Currently learning web design/development. <br>
+:seedling: Currently learning web design/development. <br>
 
-	:earth_asia: Located in Melbourne, Australia.<br>
+:earth_asia: Located in Melbourne, Australia.<br>
 
-	:mortar_board: 2018 Product design engineer graduate. <br>
+:mortar_board: 2018 Product design engineer graduate. <br>
 
-	:art: Like experimenting with new technologies.<br>
+:art: Like experimenting with new technologies.<br>
 
-	:postbox: How to reach me: (djrooben@gmail.com)
+:postbox: How to reach me: (djrooben@gmail.com)
 <hr>
 <h1>Project Highlights:</h1>
 <hr>
