@@ -1,4 +1,4 @@
-<img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg"><br>
+
 :seedling: Currently learning web design/development. <br>
 :earth_asia: Located in Melbourne, Australia.<br>
 :mortar_board: 2018 Product design engineer graduate. <br>
