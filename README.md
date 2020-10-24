@@ -1,4 +1,5 @@
-<h1>Hi, thanks for checking my profile.<h1>
+<h1>Hi, Welcome to my profile :simple_smile:<h1>
+
 :seedling: Currently learning web design/development. <br>
     
 :earth_asia: Located in Melbourne, Australia.<br>
