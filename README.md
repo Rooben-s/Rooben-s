@@ -16,4 +16,4 @@
 <br>
 <br>
 <br>
-<img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=nord">
+<img src= "https://github-readme-stats.vercel.app/api?username=rooben-s&show_icons=true&theme=transparent">
