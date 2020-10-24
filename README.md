@@ -1,4 +1,4 @@
-<h1>Hi, Welcome to my profile :simple_smile:<h1>
+<h1>Hi, Welcome to my profile!<h1>
 
 :seedling: Currently learning web design/development. <br>
     
