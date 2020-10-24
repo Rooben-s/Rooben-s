@@ -1,8 +1,8 @@
 <img src= "https://github.com/Rooben-s/Rooben-s/blob/main/hero.svg">
-:seedling: Currently learning web design/development. | :earth_asia: Located in Melbourne, Australia.
-<br>
-:mortar_board: 2018 Product design engineer graduate. | :art: I like experimenting with new technologies.
-<br>
+:seedling: Currently learning web design/development. 
+:earth_asia: Located in Melbourne, Australia.
+:mortar_board: 2018 Product design engineer graduate. 
+:art: I like experimenting with new technologies.
 :postbox: How to reach me: (djrooben@gmail.com)
 <hr>
 <h1>Project Highlights:</h1>
