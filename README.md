@@ -1,16 +1,17 @@
 <h4>Hi, Welcome to my profile!<h4>
 
-:seedling: Currently learning web design/development. <br>
+	:seedling: Currently learning web design/development. <br>
 
-:earth_asia: Located in Melbourne, Australia.<br>
+	:earth_asia: Located in Melbourne, Australia.<br>
 
-:mortar_board: 2018 Product design engineer graduate. <br>
+	:mortar_board: 2018 Product design engineer graduate. <br>
 
-:art: Like experimenting with new technologies.<br>
+	:art: Like experimenting with new technologies.<br>
 
-:postbox: How to reach me: (djrooben@gmail.com)
+	:postbox: How to reach me: (djrooben@gmail.com)
 <hr>
 <h1>Project Highlights:</h1>
+<hr>
     <h4>:arrow_right: Mobile first Website. [ <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first" target="_blank">Repository</a> ]</h4>
     <h4>:arrow_right: Responsive developer website. [ <a href="https://rooben-s.github.io/dev-website/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/dev-website" target="_blank">Repository</a> ]</h4> 
     <h4>:arrow_right: Travel agency website. [ <a href="https://rooben-s.github.io/Travel-website/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/Travel-website" target="_blank">Repository</a> ]</h4> 
