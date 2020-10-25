@@ -12,6 +12,7 @@
 <hr>
 <h1>Project Highlights:</h1>
 <hr>
+    <h4>:arrow_right: Quote generator. [ <a href="https://rooben-s.github.io/Random_quote_generator-techdegree/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/Random_quote_generator-techdegree" target="_blank">Repository</a> ]</h4>
     <h4>:arrow_right: Mobile first website. [ <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first" target="_blank">Repository</a> ]</h4>
     <h4>:arrow_right: Responsive developer website. [ <a href="https://rooben-s.github.io/dev-website/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/dev-website" target="_blank">Repository</a> ]</h4> 
     <h4>:arrow_right: Travel agency website. [ <a href="https://rooben-s.github.io/Travel-website/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/Travel-website" target="_blank">Repository</a> ]</h4> 
