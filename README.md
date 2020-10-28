@@ -1,7 +1,5 @@
 <h4>Hi, Welcome to my profile!<h4>
 
-:seedling: Currently a Treehouse Techdegree student. <br>
-
 :earth_asia: Located in Melbourne, Australia.<br>
 
 :art: Like experimenting with new technologies.<br>
