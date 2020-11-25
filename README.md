@@ -8,8 +8,9 @@
 <hr>
 <h1>Project Highlights:</h1>
 <hr>
-<h4>:arrow_right: Quote generator. [ <a href="https://rooben-s.github.io/Random_quote_generator-techdegree/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/Random_quote_generator-techdegree" target="_blank">Repository</a> ]</h4>
-<h4>:arrow_right: Mobile first website. [ <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first" target="_blank">Repository</a> ]</h4>
+<h4>:arrow_right: Quote generator. [ <a href="https://rooben-s.github.io/Random_quote_generator-techdegree/" >Live</a> | <a href="https://github.com/Rooben-s/Random_quote_generator-techdegree" target="_blank">Repository</a> ]</h4>
+<h4>:arrow_right: Kuber Cloud Platform. [ <a href="" target="_blank">Live</a> | <a href="">Repository</a> ]</h4>
+<h4>:arrow_right: Mobile first website. [ <a href="https://rooben-s.github.io/techdegree-project-2-mobile-first">Live</a> | <a href="https://github.com/Rooben-s/techdegree-project-2-mobile-first" target="_blank">Repository</a> ]</h4>
 <h4>:arrow_right: Developer website. [ <a href="https://rooben-s.github.io/dev-website/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/dev-website" target="_blank">Repository</a> ]</h4> 
 <h4>:arrow_right: Travel agency website. [ <a href="https://rooben-s.github.io/Voyager/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/Voyager" target="_blank">Repository</a> ]</h4> 
 <h4>:arrow_right: Web form. [ <a href="https://rooben-s.github.io/online-form/" target="_blank">Live</a> | <a href="https://github.com/Rooben-s/online-form" target="_blank">Repository</a> ]</h4>
