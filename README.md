@@ -4,7 +4,7 @@
 
 :art: Like experimenting with new technologies.<br>
 
-:postbox: How to reach me: (djrooben@gmail.com)
+:postbox: How to reach me: (rooben.subramanen@gmail.com)
 <hr>
 <h1>Project Highlights:</h1>
 <hr>
